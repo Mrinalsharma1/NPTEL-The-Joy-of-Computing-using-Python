@@ -1,3 +1,3 @@
 x = int(input());
 y = int(input());
-print(x - y, (end = ""));
+print(x - y,end = "");
